@@ -1,0 +1,26 @@
+[
+  {
+   "id": 1, 
+   "titulo": "A Revolução dos Bichos", 
+   "autor": "George Orwell", 
+   "ano": 1945 
+  },
+  {
+    "id": 2,
+    "titulo": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "ano": 1605
+  },
+  {
+    "id": 3, 
+    "titulo": "Memórias Póstumas de Brás Cubas", 
+    "autor": "Machado de Assis", 
+    "ano": 1881
+  },
+  {
+     "id": 4,
+      "titulo": "O Alienista", 
+      "autor": "Machado de Assis", 
+      "ano": 1882 
+  }
+]
